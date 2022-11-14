@@ -1,0 +1,19 @@
+{
+  "name": "digihumanities-manifesto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidrizoma/digihumanities-manifesto.git"
+  },
+  "author": "voidrizoma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voidrizoma/digihumanities-manifesto/issues"
+  },
+  "homepage": "https://github.com/voidrizoma/digihumanities-manifesto#readme"
+}
